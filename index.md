@@ -51,7 +51,7 @@
 ![Alt Text](2.gif)
 
 ## 3. Add users and set Access Levels: 
-![Alt Text](Acsetengeng.png)
+![Alt Text](Acseteng.png)
 - In the **'Add people, groups...'** field enter email addresses who need access.
 - Click on the drop-down list to the right side of added user and select the required access level:
   - **Viewer:** View files only
