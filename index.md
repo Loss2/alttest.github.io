@@ -44,8 +44,10 @@
 
 ## 2. Open Share Settings:
 - Click on **'Share'** button (👤+  icon) in the top toolbar.
+  
 ![Alt Text](1.gif) 
 - *OR:* Right-click on the folder. In the context menu go to **'Share > Share'**.
+  
 ![Alt Text](2.gif)
 
 ## 3. Add users and set Access Levels: 
