@@ -15,11 +15,17 @@
 ![Alt Text](Acset.png)
 - В строке **"Добавьте пользователя..."** введите e-mail адреса пользователей, кому необходимо предоставить доступ. 
 - Для каждого пользователя  выберите нужный уровень доступа:
-  - **Читатель:** Только просмотр файлов 
-  - **Комментатор:** Просмотр и комментирование 
-  - **Редактор:** Просмотр, комментирование и изменение файлов папки. 
+  - **Читатель:** Только просмотр файлов. 
+  - **Комментатор:** Просмотр и комментирование.
+  - **Редактор:** Просмотр, комментирование и изменение файлов папки.
+
+| Уровень доступа | Просмотр | Комментирование | Изменение / Удаление |
+|:------|:--------:|:-------:|:---------:|
+| **Читатель** | ✔  | ❌ | ❌ | 
+|**Комментатор**| ✔ | ✔ | ❌ |
+|**Редактор**| ✔ | ✔ | ✔ | 
   > ***Важно!*** Редакторы могут изменять и удалять содержимое папки.
-- *(Опционально) Если необходимо уведомить пользователя, поставьте галочку **"✓"**  в соответствующей графе.* 
+- *(Опционально) Если необходимо уведомить пользователя, поставьте галочку **"✔"**  в соответствующей графе .* 
 - Нажмите на кнопку **"Отправить"**.
 
 ## 4. Предоставление доступа по ссылке:
@@ -55,9 +61,16 @@
 ![Alt Text](Acseteng.png)
 - In the **'Add people, groups...'** field enter email addresses who need access.
 - Click on the drop-down list to the right side of added user and select the required access level:
-  - **Viewer:** View files only
+  - **Viewer:** View files only.
   - **Commenter:** View and comment. 
-  - **Editor:** View, comment, and edit files within the folder. 
+  - **Editor:** View, comment, and edit files within the folder.
+
+| Access level | View | Commenting | Edit / Delete |
+|:------|:--------:|:-------:|:---------:|
+| **Viewer** | ✔  | ❌ | ❌ | 
+|**Commenter**| ✔ | ✔ | ❌ |
+|**Editor**| ✔ | ✔ | ✔ | 
+
   >***NOTE:*** *Editors can modify and delete folder contents.* 
 - *(Optional) If you need to notify the user, put the checkmark **"✓"** in the box next to **"Notify people"*** 
 - Click the **'Send'** button.
@@ -76,5 +89,5 @@
 - Open the **"Share"** settings *(Step 2)*. 
 - Find the user in the **"People with access"** section. 
 - Click on the access level to the right of the user.
-- In the drop-down list, **select a new level**   *(Viewer, Commenter, Editor)*. ***OR:*** **remove access** *(Remove access)*. 
+- In the drop-down list, **select a new level** *(Viewer, Commenter, Editor)*. ***OR:*** **remove access** *(Remove access)*. 
 - Close the window by clicking **"Save"**. 
