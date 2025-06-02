@@ -26,6 +26,7 @@
 |**Редактор**| ✔ | ✔ | ✔ | 
 
   > ***Важно!*** Редакторы могут изменять и удалять содержимое папки.
+
 - *(Опционально) Если необходимо уведомить пользователя, поставьте галочку **"✔"**  в соответствующей графе .* 
 - Нажмите на кнопку **"Отправить"**.
 
@@ -72,7 +73,8 @@
 |**Commenter**| ✔ | ✔ | ❌ |
 |**Editor**| ✔ | ✔ | ✔ | 
 
-  >***NOTE:*** *Editors can modify and delete folder contents.* 
+  >***NOTE:*** *Editors can modify and delete folder contents.*
+
 - *(Optional) If you need to notify the user, put the checkmark **"✓"** in the box next to **"Notify people"*** 
 - Click the **'Send'** button.
 
