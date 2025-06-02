@@ -6,10 +6,10 @@
 ## 2. Откройте настройки доступа:
 - Нажмите на кнопку **"Поделиться"** (иконка 👤+ ) на верхней панели доступа.
   
-![Alt Text](1.gif) 
+![Alt Text](ggifrus1.gif) 
 - *ИЛИ*: Щелкните правой кнопкой мыши по папке. В появившемся контекстном меню перейдите **"Поделиться > Открыть доступ"**.
   
-![Alt Text](2.gif)
+![Alt Text](ggifrus2.gif)
 
 ## 3. Добавьте пользователей и назначьте права: 
 ![Alt Text](Acset.png)
@@ -46,10 +46,10 @@
 ## 2. Open Share Settings:
 - Click on **'Share'** button (👤+  icon) in the top toolbar.
   
-![Alt Text](1.gif) 
+![Alt Text](ggifeng1.gif) 
 - *OR:* Right-click on the folder. In the context menu go to **'Share > Share'**.
   
-![Alt Text](2.gif)
+![Alt Text](ggifeng2.gif)
 
 ## 3. Add users and set Access Levels: 
 ![Alt Text](Acseteng.png)
